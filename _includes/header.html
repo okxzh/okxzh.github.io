@@ -3,17 +3,17 @@
     <h1><a href="{{ site.baseurl }}/" class="site-title" >{{ site.title }}</a></h1>
     <nav id="nav">
         <ul>
-            <li><a href="{{ site.baseurl }}/">Home</a></li>
-            <li><a href="{{ site.baseurl }}/left-sidebar.html">Left Sidebar</a></li>
-            <li><a href="{{ site.baseurl }}/right-sidebar.html">Right Sidebar</a></li>
-            <li><a href="{{ site.baseurl }}/no-sidebar.html">No Sidebar</a></li>
-            <li><a href="{{ site.baseurl }}/blog.html">Blog</a></li>
+            <li><a href="{{ site.baseurl }}/">首页</a></li>
+            <li><a href="{{ site.baseurl }}/left-sidebar.html">注册指南</a></li>
+            <li><a href="{{ site.baseurl }}/right-sidebar.html">下载指南</a></li>
+            <li><a href="{{ site.baseurl }}/no-sidebar.html">交易指南</a></li>
+            <li><a href="{{ site.baseurl }}/blog.html">最新动态</a></li>
             {% for page in site.pages %}
                   {% if page.title %}
                     <li><a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
                   {% endif %}
             {% endfor %}
-            <li><a href="#" class="button special">Sign Up</a></li>
+            <li><a href="#" class="button special">注册欧易</a></li>
         </ul>
     </nav>
 </header>
