@@ -2,9 +2,7 @@
 title: 欧易中文官方教程
 email: dh7440234@gmail.com 
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  欧易官方中文教程，提供最新最全的使用指南，详细讲解注册、交易、充提币等操作流程，帮助用户快速上手欧易平台，了解各项功能与操作技巧，轻松玩转数字资产交易。
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://okxzh.github.io/" # the base hostname & protocol for your site
 twitter_username: jekyllrb
