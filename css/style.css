@@ -994,6 +994,7 @@
 		padding: 14em 0;
 		text-align: center;
 		position: relative;
+		background-blend-mode: multiply;
 	}
 
 		#banner:before {
