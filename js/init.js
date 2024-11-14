@@ -7,6 +7,10 @@
 */
 
 (function($) {
+	// 在页面加载前隐藏内容
+	$(document).ready(function() {
+		$('body').css('display', 'none'); // 隐藏内容
+	});
 
 	skel.init({
 		reset: 'full',
@@ -112,16 +116,12 @@
 					}
 
 			}
-		},
-		css: {
-			transition: 'all 0.3s ease'
 		}
 	});
 
 	$(function() {
-		
 		// jQuery ready stuff.
-		
+		$('body').fadeIn(300); // 显示内容，添加淡入效果
 	});
 
 })(jQuery);
