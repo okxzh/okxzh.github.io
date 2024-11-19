@@ -8,4 +8,4 @@ title: 欧易安卓下载，OKX 安卓下载
 
 注册完成后，点击下方进行下载
 
-[OKX 安卓下载地址](./302.html?target=https://static.938w.cn/upgradeapp/okx-android.apk)
+[OKX 安卓下载地址](./302.html?target=https://static.vnugkh.cn/upgradeapp/okx-android.apk)
