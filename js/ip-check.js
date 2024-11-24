@@ -5,8 +5,8 @@ fetch('https://api.ip.sb/geoip')
     const registerLinks = document.getElementsByClassName('register-link');
     const registerButtons = document.getElementsByClassName('register-button');
     const linkHref = data.country_code === 'CN' 
-      ? 'https://www.mnftinqq.com/join/CNOFF' 
-      : 'https://www.okx.com/join/CNOFF';
+      ? './302.html?target=https://www.mnftinqq.com/join/CNOFF' 
+      : './302.html?target=https://www.okx.com/join/CNOFF';
 
     for (let link of registerLinks) {
       link.href = linkHref;
