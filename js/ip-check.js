@@ -1,17 +1,13 @@
 // 设置链接的函数
 function setLinks(countryCode) {
-  const registerLinks = document.getElementsByClassName('register-link');
   const registerButtons = document.getElementsByClassName('register-button');
 
   const linkHref = countryCode === 'CN' 
     ? './302.html?target=https://www.mnftinqq.com/join/CNOFF' 
     : './302.html?target=https://www.okx.com/join/CNOFF';
 
-  for (let link of registerLinks) {
-    link.href = linkHref;
-  }
   for (let button of registerButtons) {
-    button.href = linkHref;
+    button.href = linkHref; // 统一设置按钮的链接
   }
 }
 
