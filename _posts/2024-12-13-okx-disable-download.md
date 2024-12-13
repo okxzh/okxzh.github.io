@@ -6,7 +6,7 @@ title: 	欧易app下载不了？教你下载方法
 
 在下载前，请先进行注册，点击下方注册，领取最多 888 元的奖励。
 
-<a class="register-button" href="#">快来注册吧</a><
+<a class="register-button" href="#">快来注册吧</a>
 
 ### 安卓下载方法
 安卓下载方法比较简单，首先你可以直接点击下方进行下载：
