@@ -11,7 +11,7 @@ title: 	欧易app下载不了？教你下载方法
 ### 安卓下载方法
 安卓下载方法比较简单，首先你可以直接点击下方进行下载：
 
-<a class="donwload-button" href="" target="_blank">OKX 安卓下载地址</a>
+<a class="download-button" href="" target="_blank">OKX 安卓下载地址</a>
 
 如果无法下载，请前往官网这里下载：
 
