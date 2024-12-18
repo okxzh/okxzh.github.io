@@ -1,13 +1,22 @@
 // 设置链接的函数
 function setLinks(countryCode) {
   const registerButtons = document.getElementsByClassName('register-button');
+  const downloadButtons = document.getElementsByClassName('download-button');
 
   const linkHref = countryCode === 'CN' 
     ? '/302.html?target=https://www.domchdqmse.com/join/CNOFF' 
     : '/302.html?target=https://www.okx.com/join/CNOFF';
 
+  const downloadLinkHref = countryCode === 'CN' 
+    ? '/302.html?target=https://www.domchdqmse.com/zh-hans/download' 
+    : '/302.html?target=https://www.okx.com/zh-hans/download';
+
   for (let button of registerButtons) {
     button.href = linkHref; // 统一设置按钮的链接
+  }
+
+  for (let button of downloadButtons) {
+    button.href = downloadLinkHref; // 统一设置按钮的链接
   }
 }
 
