@@ -1100,6 +1100,6 @@
 			margin: auto;
 		}
 
-		.post-content p:nth-of-type(2) {
+		.post-content p:has(img) {
 			text-align: center; /* 让文字内容居中 */
 		  }
