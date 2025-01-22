@@ -1099,3 +1099,7 @@
 			width: 200px;
 			margin: auto;
 		}
+
+		.post-content p:nth-of-type(2) {
+			text-align: center; /* 让文字内容居中 */
+		  }
