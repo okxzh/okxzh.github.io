@@ -1094,3 +1094,8 @@
 		#footer .icons a {
 			color: #bbb;
 		}
+
+		.post-content image {
+			width: 200px;
+			margin: auto;
+		}

@@ -4,7 +4,7 @@ title: 如何购买trump和melania，链上以及交易所购买指南
 ---
 最近trump和melania都因为特朗普的两个推文火爆起来了，这都是来自特朗普的社交媒体上发布的truth社交。
 
-![trump](/images/trump-01.webp "trump"){width=400px}
+![trump](/images/trump-01.webp "trump")
 ![trump](/images/trump-02.webp "trump")
 
 如果你发现了这些关键的的内容，那么怎么购买呢？
