@@ -73,7 +73,7 @@ title: 如何购买trump和melania，链上以及交易所购买指南
 
 ![trump](/images/trump-10.webp "trump")
 
-### 使用SOL购买trump和melania
+### 使用SOL购买trump和melaniax
 接下来我们找到trump币和melania币的合约地址，以下两个分别是
 
 trump sol合约地址：**6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN**
