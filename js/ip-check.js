@@ -4,11 +4,11 @@ function setLinks(countryCode) {
   const downloadButtons = document.getElementsByClassName('download-button');
 
   const linkHref = countryCode === 'CN' 
-    ? '/302.html?target=https://www.chouyi.trade/join/CNOFF' 
+    ? '/302.html?target=https://www.chouyi.rocks/join/CNOFF' 
     : '/302.html?target=https://www.okx.com/join/CNOFF';
 
   const downloadLinkHref = countryCode === 'CN' 
-    ? '/302.html?target=https://www.chouyi.trade/zh-hans/download' 
+    ? '/302.html?target=https://www.chouyi.rocks/zh-hans/download' 
     : '/302.html?target=https://www.okx.com/zh-hans/download';
 
   for (let button of registerButtons) {
