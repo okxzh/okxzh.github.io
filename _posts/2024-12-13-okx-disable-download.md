@@ -17,7 +17,7 @@ title: 	欧易app下载不了？教你下载方法
 
 [带梯子的欧易安卓下载页面](/302.html?target=https://www.okx.com/zh-hans/download)
 
-[没带梯子的欧易安卓下载页面](/302.html?target=https://www.chouyi.work/zh-hans/download)
+[没带梯子的欧易安卓下载页面](/302.html?target=https://https://www.ouxyi.link/zh-hans/download)
 
 ### 苹果下载方法
 苹果下载会比较麻烦一些，这里需要海外苹果账号，如果你没有，则需要去注册一个，如果你也不会注册，可以尝试下面这些方法，免费拿一些共享账号：
