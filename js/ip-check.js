@@ -4,7 +4,7 @@ function setLinks(countryCode) {
   const downloadButtons = document.getElementsByClassName('download-button');
 
   const linkHref = countryCode === 'CN' 
-    ? '/302.html?target=https://www.oucnyi.blue/join/CNOFF' 
+    ? '/302.html?target=https://www.oyicn.link/ul/6CngT5?channelId=CNOFF' 
     : '/302.html?target=https://www.okx.com/join/CNOFF';
 
   const downloadLinkHref = countryCode === 'CN' 
