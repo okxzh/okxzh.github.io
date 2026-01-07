@@ -4,7 +4,7 @@ title: 欧易怎么设置中文，欧易中文网
 ---
 欧易（OKX）是一款全球领先的加密货币交易平台，为用户提供安全、便捷的数字资产交易服务。如果您想将欧易界面语言设置为中文，或者通过欧易中文网体验更贴合中文用户的服务，本篇文章将为您详细介绍设置方法和相关操作。
 
-<a class="register-button" href="#">欧易注册领取最高888元奖励</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ### 一、欧易语言设置为中文的方法
 无论是在欧易APP还是网页版，您都可以轻松将语言切换为中文。以下是具体步骤：
@@ -19,7 +19,7 @@ title: 欧易怎么设置中文，欧易中文网
 
 #### 2. 在欧易网页版设置中文
 1. 打开浏览器，访问。
-<a class="register-button" href="#">欧易官网</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">欧易官网</a>
 2. 登录您的账号。
 3. 在页面右上角找到语言切换图标（通常是一个小地球图标）。
 4. 点击图标后，在下拉菜单中选择“简体中文”或“繁体中文”。
@@ -49,5 +49,5 @@ title: 欧易怎么设置中文，欧易中文网
 
 如果您还未注册欧易，可以点击以下链接获取注册教程以及新用户福利！祝您交易顺利，资产增值！
 
-<a class="register-button" href="#">欧易注册领取最高888元奖励</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 

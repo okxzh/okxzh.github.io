@@ -4,7 +4,7 @@ title: 欧易怎么样？欧易如何使用？
 ---
 近年来，随着加密货币市场的快速发展，交易所成为了投资者不可或缺的工具之一。其中，**欧易（OKX）**作为全球领先的数字资产交易平台，因其强大的功能和用户友好的设计而备受关注。那么，欧易怎么样？它又该如何使用呢？本文将为您详细解析。
 
-<a class="register-button" href="#">欧易注册领取最高888元</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 ---
 
 #### 一、欧易怎么样？
@@ -30,7 +30,7 @@ title: 欧易怎么样？欧易如何使用？
 
 **第一步：注册账号**  
 1. **访问官网**  
-    前往 <a class="register-button" href="#">欧易官网点击打开</a>  
+    前往 <a class="register-button" href="https://ouyigw.org/join/CNOFF">欧易官网</a>  
 2. **填写信息**  
    输入您的邮箱或手机号，设置密码，完成注册。  
 3. **完成身份认证**  

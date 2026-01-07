@@ -22,7 +22,7 @@ OKX邀请码是平台为了推广用户注册而设置的一种专属推荐码�
 
 以下是使用邀请码注册OKX的详细步骤：
 
-1. 访问OKX官网，官网链接, <a class="register-button">欧易官网链接</a>。
+1. 访问OKX官网，官网链接, <a class="register-button" href="https://ouyigw.org/join/CNOFF">欧易官网</a>。
 
 2. 点击“注册”按钮 填写手机号或邮箱，并设置登录密码。
 

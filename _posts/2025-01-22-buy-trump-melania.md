@@ -12,7 +12,7 @@ title: 如何购买trump和melania，链上以及交易所购买指南
 ## 交易所购买指引
 
 ### 下载okx交易所app
-首先大家需要下载okx交易所APP，下载方式大家可以自行打开 <a class="register-button" href="#">欧易注册领取最高888元</a> 进行注册
+首先大家需要下载okx交易所APP，下载方式大家可以自行打开 <a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a> 进行注册
 下载完成后，在打开app的时候，如果需要邀请码可以使用 betrys，使用后会获得部分的 trump 币。
 
 ### 实名认证
@@ -40,7 +40,7 @@ title: 如何购买trump和melania，链上以及交易所购买指南
 ## SOL 链上购买指引教程
 
 ### 下载okx交易所app
-首先大家需要下载okx交易所APP，下载方式大家可以自行打开 <a class="register-button" href="#">欧易注册领取最高888元</a>  进行注册。
+首先大家需要下载okx交易所APP，下载方式大家可以自行打开 <a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>  进行注册。
 
 下载完成后，在打开app的时候，如果需要邀请码可以使用 betrys，使用后会获得部分的 trump 币。
 

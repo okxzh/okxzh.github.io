@@ -4,7 +4,7 @@ title: 欧易为什么要实名，实名认证又有什么福利
 ---
 在数字货币交易领域，实名认证（KYC，Know Your Customer）是一个非常重要的环节。作为全球领先的加密货币交易平台，欧易（OKX）要求用户进行实名认证，目的是为了保障用户资产安全，同时满足国际合规性要求。下面，我们来详细探讨欧易为什么要实名，以及实名认证带来的各种福利。
 
-<a class="register-button" href="#">欧易注册领取最高888元</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 #### 1. 防止非法活动
 
@@ -46,7 +46,7 @@ title: 欧易为什么要实名，实名认证又有什么福利
 
 完成欧易的实名认证流程非常简单：
 
-1. <a class="register-button" href="#">登录欧易官网或APP</a>。
+1. <a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>。
 2. 进入个人中心，选择“身份认证”。
 3. 上传身份证件照片，并完成面部识别。
 4. 提交后等待审核，通常1-2小时即可完成。

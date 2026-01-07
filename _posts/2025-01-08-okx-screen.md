@@ -4,7 +4,7 @@ title: OKX为什么不能截图？
 ---
 在使用OKX（欧易）时，许多用户可能会遇到一个常见的问题：无法对应用内容进行截图。为什么会有这样的限制？本文将为你解答这一问题，并分享一些解决方法。
 
-<a class="register-button" href="#">欧易注册领取最高888元</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ## 一、OKX为什么限制截图？  
 

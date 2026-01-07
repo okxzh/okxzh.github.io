@@ -4,7 +4,7 @@ title: 欧易如何转账，转账手续费多少
 ---
 欧易（OKX）作为全球领先的数字资产交易平台，为用户提供了便捷的转账服务。在本文中，我们将详细介绍如何在欧易上完成转账操作，以及相关的手续费标准。
 
-<a class="register-button" href="#">欧易注册领取最高888元</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ---
 

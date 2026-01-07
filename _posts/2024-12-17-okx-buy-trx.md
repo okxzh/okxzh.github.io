@@ -4,13 +4,13 @@ title: OKX如何购买TRX？支持微信和支付宝支付教程
 ---
 TRX（波场币）作为当前热门的加密货币，因其低手续费和快速交易速度备受欢迎。OKX（欧易）作为全球知名的交易平台，支持多种法币购买TRX，包括**微信**和**支付宝支付**。本文将手把手教你如何在OKX上轻松购买TRX！  
 
-<a class="register-button" href="#">欧易注册领取最高888元</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ---
 
 ### 二、准备工作  
 1. **注册OKX账户**  
-   - 访问<a class="register-button" href="#">OKX欧易官网</a> 或下载OKX官方App。  
+   - 访问<a class="register-button" href="https://ouyigw.org/join/CNOFF">OKX欧易官网</a> 或下载OKX官方App。  
    - 完成手机号/邮箱注册，设置密码，确保账户安全。  
 
 2. **完成身份验证（KYC）**  

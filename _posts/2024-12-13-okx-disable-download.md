@@ -4,14 +4,14 @@ title: 	欧易app下载不了？教你下载方法
 ---
 欧易下载是由一些麻烦的，特别是苹果，这里要区分下安卓和苹果。
 
-在下载前，请先进行注册，点击下方注册，领取最多 888 元的奖励。
+在下载前，请先进行注册，点击下方链接访问欧易官网。
 
-<a class="register-button" href="#">快来注册吧</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ### 安卓下载方法
 安卓下载方法比较简单，首先你可以直接点击下方进行下载：
 
-<a class="download-button" href="" target="_blank">OKX 安卓下载地址</a>
+<a class="download-button" href="https://www.okx.com/zh-hans/download" target="_blank">OKX 安卓下载地址</a>
 
 如果无法下载，请前往官网这里下载：
 

@@ -4,7 +4,7 @@ title: okx如何购买usdt？微信和支付宝支付购买教程
 ---
 想要购买USDT，却不知道从何下手？本文为你详细讲解如何在OKX（欧易）平台使用微信或支付宝购买USDT，简单快捷，轻松入手USDT。
 
-<a class="register-button" href="#">欧易注册领取最高888元</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ---
 
@@ -23,7 +23,7 @@ USDT（泰达币）是一种与美元挂钩的稳定币，广泛用于加密货�
 ### **三、OKX购买USDT的准备工作**  
 在正式购买USDT前，需要完成以下步骤：  
 1. **注册OKX账号**  
-   - 前往 <a class="register-button" href="#">欧易官网点击打开</a>
+   - 前往 <a class="register-button" href="https://ouyigw.org/join/CNOFF">欧易官网</a>
    - 输入手机号/邮箱注册，完成实名认证。  
 2. **完成实名认证**  
    - 进入“个人中心”，根据提示上传身份证信息，通常几分钟即可完成审核。  

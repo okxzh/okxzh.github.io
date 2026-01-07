@@ -21,7 +21,7 @@ OKX提供7×24小时的在线客服支持，能够快速解决以下常见问题
 
 ### 1. 登录OKX官网或APP  
 首先，您需要登录OKX的官方网站或打开OKX手机APP。  
-**官网地址**：<a class="register-button" href="#">点击打开欧易官网</a>
+**官网地址**：<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ### 2. 找到“帮助中心”  
 进入官网或APP首页后，您可以在页面底部或顶部导航栏找到“帮助中心”入口。

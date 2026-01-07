@@ -4,7 +4,7 @@ title: 	欧易靠谱吗？欧易安全吗？
 ---
 欧易（OKX）作为一家全球知名的数字资产交易平台，一直备受加密货币投资者的关注。那么，欧易究竟靠谱吗？它的安全性如何？本文将从多个角度深入分析，以帮助大家更全面地了解这个平台。
 
-<a class="register-button" href="#">欧易注册领取最高888元</a>
+<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 ---
 

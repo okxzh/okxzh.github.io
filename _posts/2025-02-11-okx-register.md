@@ -6,7 +6,7 @@ OKX（欧易）是一家全球领先的加密货币交易平台，提供包括�
 
 ## 1. 访问OKX官网
 
-首先，你需要打开OKX的官方网站。可以通过以下链接访问：<a class="register-button" href="#">欧易注册领取最高888元</a>
+首先，你需要打开OKX的官方网站。可以通过以下链接访问：<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 请确保访问的是官网，以避免进入假冒网站，请只点击上方链接，经过认证的国内可访问官网。
 

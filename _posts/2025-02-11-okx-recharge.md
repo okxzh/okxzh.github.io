@@ -11,7 +11,7 @@ OKX（欧易）是全球领先的加密货币交易平台之一，支持多种�
 ##### 1. 注册并登录OKX账户
 首先，你需要访问OKX官网并注册账户。如果你已经拥有账户，可以直接登录。
 
-- 访问官网： <a class="register-button" href="#">欧易官网</a>
+- 访问官网： <a class="register-button" href="https://ouyigw.org/join/CNOFF">欧易官网</a>
 - 点击“注册”并按照指引填写必要信息，如电子邮件、手机号码等。
 - 完成注册后，登录你的账户。
 

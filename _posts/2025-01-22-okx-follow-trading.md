@@ -9,7 +9,7 @@ title: okx跟单，欧易跟单教程，有哪些比较优质的跟单员推荐
 
 ### 如何在OKX开始跟单？
 
-**创建账户**：前往OKX官网或下载官方应用，按照指导完成注册和KYC验证。<a class="register-button" href="#">欧易注册领取最高888元</a>
+**创建账户**：前往OKX官网或下载官方应用，按照指导完成注册和KYC验证。<a class="register-button" href="https://ouyigw.org/join/CNOFF">访问欧易官网</a>
 
 **充值资金**：通过钱包充值或在市场购买数字资产，确保您账户中有足够的资金。这里需要使用 C2C 购买 usdt
 
