@@ -5,7 +5,7 @@ function setLinks(countryCode) {
 
   // 根据国家代码设置不同的链接（仅当链接存在且需要时才更新）
   const linkHref = countryCode === 'CN' 
-    ? '/302.html?target=https://gwoyicn.com/join/CNOFF' 
+    ? '/302.html?target=https://oxyizhgwne.net/join/CNOFF' 
     : '/302.html?target=https://www.okx.com/join/CNOFF';
 
   const downloadLinkHref = countryCode === 'CN' 
